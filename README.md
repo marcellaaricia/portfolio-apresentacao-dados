@@ -5,7 +5,7 @@
 
 ## 🎯 **Ver Apresentação**
 
-### [👉 **ACESSAR APRESENTAÇÃO COMPLETA**](https://marcellaaricia.github.io/portfolio-apresentacao-dados/apresentacao_marcella.html)
+### [👉 **ACESSAR APRESENTAÇÃO COMPLETA**](https://marcellaaricia.github.io/portfolio-apresentacao-dados/)
 ---
 
 ## 🏆 **Destaques**
