@@ -5,7 +5,12 @@
 
 ## 🎯 **Ver Apresentação**
 
-### [👉 **ACESSAR APRESENTAÇÃO COMPLETA**](https://marcellaaricia.github.io/portfolio-apresentacao-dados/)
+<div align="center">
+
+[![Apresentação Completa](https://img.shields.io/badge/👉_ACESSAR_APRESENTAÇÃO_COMPLETA-FF6B6B?style=for-the-badge&logo=presentation&logoColor=white)](https://marcellaaricia.github.io/portfolio-apresentacao-dados/)
+
+</div>
+
 ---
 
 ## 🏆 **Destaques**
@@ -21,7 +26,11 @@
 
 ## 🛠️ **Stack**
 
-SQL • Python • BigQuery • GCP • Data Studio • Google Analytics • Git
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📊 **Principais Cases**
 
@@ -30,6 +39,7 @@ SQL • Python • BigQuery • GCP • Data Studio • Google Analytics • Git
 ✅ **Documentação Técnica** - GTM/GA4 em Fintech  
 
 ---
+
 ## 🎓 **Formação**
 
 - **Data Science** - FIAP ✅ **Concluído**
@@ -38,12 +48,34 @@ SQL • Python • BigQuery • GCP • Data Studio • Google Analytics • Git
 
 ---
 
-## 📱 **Contato**
+## 📱 **Contato & Links**
 
-- 📧 **Email:** [marcella.aricia@live.com]
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/marcella-aricia/]
-- 🌐 **GitHub:** [https://github.com/marcellaaricia]
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcella.aricia@live.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcella-aricia/)
+[![GitHub](https://img.shields.io/badge/🌐_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcellaaricia)
+
+</div>
 
 ---
 
+## 📁 **Portfólio Completo**
+
+<div align="center">
+
+[![Google Drive - Cases & Projetos](https://img.shields.io/badge/📁_Cases,_Projetos_&_Certificados-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://lnkd.in/dfEF_7Ka)
+
+*📂 Cases recentes • 🎓 Projetos da faculdade • 📄 Currículo • 🏆 Certificados*
+
+</div>
+
+---
+
+<div align="center">
+
 *Feito com 🧡 por Marcella Arícia*
+
+[![Portfolio](https://img.shields.io/badge/✨_Mais_sobre_mim-FF8E53?style=flat-square&logo=aboutdotme&logoColor=white)](https://marcellaaricia.github.io/portfolio-apresentacao-dados/)
+
+</div>
