@@ -64,7 +64,7 @@
 
 <div align="center">
 
-[![Google Drive - Cases & Projetos](https://img.shields.io/badge/📁_Cases,_Projetos_&_Certificados-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://lnkd.in/dfEF_7Ka)
+[![Google Drive - Cases & Projetos](https://img.shields.io/badge/📁_Cases,_Projetos_&_Certificados-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1QLY2J1ew1FlxlOS_gKWUR81ob1Q_BgFa?usp=sharing)
 
 *📂 Cases recentes • 🎓 Projetos da faculdade • 📄 Currículo • 🏆 Certificados*
 
